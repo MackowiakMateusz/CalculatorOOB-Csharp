@@ -1,0 +1,1 @@
+Kalkulator w C# zrobiony przeze mnie, żeby zwizualizować jakoś zasady OOB.

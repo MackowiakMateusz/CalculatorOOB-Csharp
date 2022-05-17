@@ -1,0 +1,7 @@
+C:\Users\macko\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\macko\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\macko\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\macko\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+C:\Users\macko\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\macko\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\macko\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
